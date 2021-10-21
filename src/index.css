@@ -1,0 +1,61 @@
+div{
+    width: 700px;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+form{
+    width: 80%;
+    justify-content: center;
+}
+
+input {
+    margin-left: 25rem;
+    width: 50%;
+    align-content: center;
+    text-align: center;
+    padding: .5rem;
+    border-radius: 15px;
+    background-color: cornsilk;
+}
+
+select{
+    border-radius: 15px;
+    background-color: cornsilk;
+    margin-top: .5rem;
+    margin-left: 25.5rem;
+    width: 50%;
+    text-align: center;
+    padding: .5rem;
+
+}
+
+.submit {
+
+    border-radius: 15px;
+    background-color: rgb(40, 241, 33);
+    font-weight: 800;
+    font-size: large;
+    margin-top: 1rem;
+    margin-left: 28.5rem;
+    width: 30%;
+    text-align: center;
+    padding: .5rem;
+
+}
+
+.done{
+    border-radius: 15px;
+    background-color: rgb(255, 17, 17);
+    width: 30px;
+    text-align: center; 
+    color: yellow; 
+    font-size: large;
+}
+
+table, td, tr, th{
+    margin-top: 1rem;
+    margin-left: 23.5rem;
+    width: 50%;
+    border: 1px solid black;
+}
